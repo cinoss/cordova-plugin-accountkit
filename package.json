@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-accountkit",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "description": "Cordova AccountKit Plugin",
   "cordova": {
     "id": "cordova-plugin-accountkit",
@@ -27,7 +27,7 @@
   "dependencies": {
     "fs": "0.0.1-security",
     "path": "^0.12.7",
-    "replace": "^0.3.0",
+    "replace": "^1.0.0",
     "xml2js": "^0.4.19"
   }
 }
